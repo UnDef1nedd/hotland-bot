@@ -9,7 +9,7 @@
   "author": "bigtooth",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "file:node_modules/discord.js",
+    "discord.js": "^12.5.1",
     "mineflayer": "^2.37.1",
     "start": "^5.1.0"
   }
